@@ -1,0 +1,2 @@
+# URVIDEOCOIN
+This brand new cryptocurrency URVC that I am going to create is for authentication of video content. The purpose of URVC includes: 1) Anonymously video storing in the blockchain 2) Allowing to claim and prove your copyright in the blockchain without having to worry your claim or proof will be erased or modified by someone 3) Video content licensing, verifying, sharing, publishing etc. 4) Video content monetization and distribution. 
